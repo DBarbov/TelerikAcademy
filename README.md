@@ -1,2 +1,2 @@
-# TelerikAcademy
-Tasks from the Telerik Academy programming courses
+# SoftUni Python Fundamentals
+Tasks from the SoftUni Python Fundamentals programming course.
